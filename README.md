@@ -4,7 +4,7 @@ Detailed description (RU version) https://mysku.club/blog/diy/94054.html
 
 Example of existing commands. Can be send many commands in one SMS.
 
-Command:Value - Description<br>
+<code>Command:Value - Description</code>
 <pre>SMS:0 - не отправлять смс статус
     1 - отправлять только на первй номер. по умол.
     2 - на оба
