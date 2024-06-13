@@ -5,7 +5,7 @@ Detailed description (RU version) https://mysku.club/blog/diy/94054.html
 Example of existing commands. Can be send many commands in one SMS.
 
 Command:Value - Description<br>
-<code>SMS:0 - не отправлять смс статус
+<pre>SMS:0 - не отправлять смс статус
     1 - отправлять только на первй номер. по умол.
     2 - на оба
 S0:ON - задействовать нулевой сенсор для обнаружения тревоги
@@ -57,4 +57,4 @@ PREFIX:0 - перед номером добавляется - 0. по умол.
        4 - +380
 RESETA - ресет ардуино
 RESETC - ресет конфига
-BALANCE - отправить админу смс репорт сейчас</code>
+BALANCE - отправить админу смс репорт сейчас</pre>
