@@ -4,7 +4,7 @@ Detailed description (RU version) https://mysku.club/blog/diy/94054.html
 
 Example of existing commands. Can be send many commands in one SMS.
 
-Command:Value - Description
+<code>Command:Value - Description
 SMS:0 - не отправлять смс статус
     1 - отправлять только на первй номер. по умол.
     2 - на оба
@@ -58,3 +58,4 @@ PREFIX:0 - перед номером добавляется - 0. по умол.
 RESETA - ресет ардуино
 RESETC - ресет конфига
 BALANCE - отправить админу смс репорт сейчас
+</code>
