@@ -2,7 +2,7 @@
 The first public version of GSM alarm device managed by SMS for Arduino<br>
 Detailed description (RU version) https://mysku.club/blog/diy/94054.html
 
-Example of existing commands. Can be send many commands in one SMS.
+Example of existing commands. You can send multiple commands in one SMS.
 
 <code>Command:Value - Description</code>
 <pre>SMS:0 - не отправлять смс статус
