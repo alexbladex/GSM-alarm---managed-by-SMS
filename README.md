@@ -1,5 +1,6 @@
 # GSM alarm (managed by SMS)
 This is my first project for getting acquainted with and developing skills in low-level microcontroller programming.
+I initially designed my code with the goal of consuming minimal resources. For example, my program takes up only 128 bytes in RAM. And in sleep mode with the perimeter protection function preserved, the device can operate for more than a year from a 2000 mAh battery.
 Bellow you can find first public version of GSM alarm device<br>
 A detailed description of the project, key device features, and control commands can be found at the following link:  https://mysku.club/blog/diy/94054.html (RU version) you can use google translate for another language.
 
